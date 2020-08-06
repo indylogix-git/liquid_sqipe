@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # liquid_swipe
 # flutter_liquid_swipe
 # flutter_liquid_swipe
+# liquid_sqipe
