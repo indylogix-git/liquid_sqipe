@@ -195,6 +195,7 @@ class _MyAppState extends State<MyApp> {
     ),
   ];
 
+
   Widget _buildDot(int index) {
     double selectedness = Curves.easeOut.transform(
       max(
